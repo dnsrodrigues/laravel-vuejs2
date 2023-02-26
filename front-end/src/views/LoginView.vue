@@ -49,7 +49,6 @@ section {
   align-items: center;
   min-height: 100vh;
   width: 100%;
-
   background: url("../assets/background/background3.jpg") no-repeat;
   background-position: center;
   background-size: cover;
